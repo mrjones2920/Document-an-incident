@@ -14,3 +14,7 @@ Additionally, employees also reported that a ransom note was displayed on their 
 The attackers were able to gain access into the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded.
 
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
+
+![image](https://github.com/user-attachments/assets/032f9011-ecef-4a85-84a7-7a360eb5e831)
+
+
